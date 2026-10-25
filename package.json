@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-classic-node",
+  "version": "1.0.0",
+  "description": "Minecraft Classic browser game served with Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
